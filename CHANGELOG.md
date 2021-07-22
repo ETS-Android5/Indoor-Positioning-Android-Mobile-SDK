@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. NavigineSDK
 uses calendar versioning in the format `YYYYMMDD`.
 
+## Version 20210722
+
+Download link [NavigineSDK.jar](https://github.com/Navigine/Android-SDK/blob/536d353e6544678a0b64e18f5e8c555d69e70402/libs/NavigineSDK.jar?raw=true)
+
+* iBeacon battery support fixed
+* Navigation algorithms improved
+
 ## Version 20201210
 
 Download link [NavigineSDK.jar](https://github.com/Navigine/Android-SDK/blob/da1d7c718a1634364a80016c595a0fa408afe43a/libs/NavigineSDK.jar?raw=true)
