@@ -85,7 +85,7 @@ public class SplashActivity extends Activity implements ActivityCompat.OnRequest
                 }
                 @Override public void onFailed(int error)
                 {
-                  mStatusLabel.setText("Error downloading location 'Navigine Demo' (error " + error + ")! " +
+                  mStatusLabel.setText("Error downloading location '" + D.LOCATION_NAME + "' (error " + error + ")! " +
                                        "Please, try again later or contact technical support");
                 }
                 @Override public void onUpdate(int progress)
